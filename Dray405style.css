@@ -1,0 +1,110 @@
+h1{
+	font-family: "segoe UI", Arial, Sans-serif;
+	font-size: 1.2cm;
+	font-weight: 100;
+}
+body{
+	background-color: #1a7777;
+}
+
+#siteheader{
+	/*border:1px red solid;*/
+	line-height: 1cm;
+	position: absolute;
+	left: 5px;
+	width: 1000px;
+	background-color: #1a7777;
+	position: absolute;
+	top: 4px;
+	left: 210px;
+	height: 163px;
+}
+
+#bodycontent{
+	position: absolute;
+	top: 250px;
+	left: 170px;
+	/*border: 1px blue solid;*/
+	width: 900px;
+	height :20cm;
+	font-family: "segoe UI";
+	font-weight: 100;
+	color: white;
+}
+
+li{
+	list-style: none;
+}
+
+a:link{
+	color: white;
+
+}
+
+a:active{
+	color :white;
+	background-color: navy;
+}
+
+a:hover{
+	background-color: #2f4f4f;
+	color: white;
+	text-decoration: none;
+}
+
+a:visited{
+	color:white;
+}
+
+#sitebrand{
+	font-size: 0.6cm;
+}
+#nav{
+	position: absolute;
+	top: 170px;
+	left: 1px;
+	/*border: 1px green solid;*/
+	width: 160px;
+	line-height: 20px;
+	font-family: "segoe UI";
+	font-weight: 100;
+}
+
+.h2{
+	font-family:"segoe UI";
+	font-size: 1.0cm;
+	font-weight: 100;
+	color: white;
+	text-align: center;
+
+}
+
+#picpost{
+	position: absolute;
+	top:10px;
+	left: 50px;
+}
+
+#Logo{
+	position: absolute;
+	top: 4px;
+	left: 5px;
+}
+
+#forum{
+	position: absolute;
+	top:172px;
+	right: 5px;
+	font-family: "segoe UI";
+	font-size: 0.5cm;
+	font-weight: 100;
+	line-height: 20px;
+	/*border: 1px blue solid;*/
+	width: 200px;
+}
+
+#top{
+	position: absolute;
+	top: 3px;
+	left:500px;
+}
